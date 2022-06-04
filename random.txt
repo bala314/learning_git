@@ -4,3 +4,5 @@
    Hi
 2. Adding the second line
    Hello
+3. Adding third line after commit
+   Welcome
