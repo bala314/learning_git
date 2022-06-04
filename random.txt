@@ -1,0 +1,6 @@
+#This is to learn the git
+
+1. Adding first line
+   Hi
+2. Adding the second line
+   Hello
